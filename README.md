@@ -10,6 +10,9 @@ STEPS PERFORMED
 4. Created pairplot visualization
 5. Created correlation heatmap
 
+SAMPLE OUTPUT
+    ![image alt](https://github.com/Arifabegum1104/iris-eda-project/blob/944bd2d1dfb632f7b56802639c5b19e3dc5aac5e/PAIR%20PLOT%201.png)
+
 RESULTS
   Dataset has 150 samples (50 for each species: Setosa, Versicolor, Virginica).
   Petal length and petal width are strongly correlated.
