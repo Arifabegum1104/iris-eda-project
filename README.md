@@ -12,6 +12,8 @@ STEPS PERFORMED
 
 SAMPLE OUTPUT
     ![image alt](https://github.com/Arifabegum1104/iris-eda-project/blob/944bd2d1dfb632f7b56802639c5b19e3dc5aac5e/PAIR%20PLOT%201.png)
+    ![image alt]( https://github.com/Arifabegum1104/iris-eda-project/blob/967018448221d46bd240f24d1c3347e49695bd7f/PAIR%20PLOT%202.png)
+    ![image alt](
 
 RESULTS
   Dataset has 150 samples (50 for each species: Setosa, Versicolor, Virginica).
